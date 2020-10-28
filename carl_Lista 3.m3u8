@@ -1,0 +1,718 @@
+#EXTM3U
+
+---------------------------------------------------------------Deportes-------------------------------------------------------------
+
+#EXTINF:0,TUDN
+#EXTGRP:unsorted
+https://blackaddon.com/scr/xyzembed.php?id=http://datv.live/c1.php
+#EXTINF:0,TUDN usa
+#EXTGRP:unsorted
+https://blackaddon.com/scr/xyzembed.php?id=http://datv.live/c1.php
+
+#EXTINF:0,|LATIN| ESPN 2.
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86938
+#EXTINF:0,|LATIN| ESPN 3
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86937
+#EXTINF:0,|LATIN| FOX SPORT
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86936
+#EXTINF:0,|LATIN| FOX SPORT 2
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86935
+#EXTINF:0,|LATIN| UNIVISION DEPORTES
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86934
+#EXTINF:0,|LATIN| CLARO SPORT
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86931
+#EXTINF:0,win sports+ (datv)
+#EXTGRP:unsorted
+https://blackaddon.com/scr/xyzembed.php?id=http://datv.live/c20.php
+#EXTINF:0,goltv (datv)
+#EXTGRP:unsorted
+https://blackaddon.com/scr/xyzembed.php?id=http://datv.live/c4.php
+#EXTINF:0,LA LIGA TV HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=37|User-Agent=gjaiodjfhf73
+#EXTINF:-1,|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://rv.therevenge.co:80/307231215061/307231215061/79291
+#EXTINF:-1,|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://rv.therevenge.co:80/307231215061/307231215061/79290
+#EXTINF:-1,|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://rv.therevenge.co:80/307231215061/307231215061/79289
+#EXTINF:0,FORMULA 1
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=30|User-Agent=gjaiodjfhf73
+#EXTINF:0,EUROSPORT HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=27|User-Agent=gjaiodjfhf73
+#EXTINF:0,EUROSPORT 2
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=49|User-Agent=gjaiodjfhf73
+#EXTINF:0,BEIN SPORT HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=32|User-Agent=gjaiodjfhf73
+#EXTINF:0,FOX SPORTS ARGENTINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=fox_sports_arg
+#EXTINF:0,FOX SPORTS 2 ARGENTINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=fox_sports2_arg
+#EXTINF:0,FOX SPORTS 3 ARGENTINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=fox_spotrs3_arg
+#EXTINF:0,ESPN ARGENTINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=espn_arg
+#EXTINF:0,ESPN 2 ARGENTINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=espn2_arg
+#EXTINF:0,ESPN 3 ARGENTINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=espn3_arg
+#EXTINF:-1,|FR|SD| TELEFOOT
+http://rv.therevenge.co:80/307231215061/307231215061/79045
+#EXTINF:-1,|USA| TENNIS HD
+http://rv.therevenge.co:80/307231215061/307231215061/80982
+#EXTINF:-1,|USA| NBA TV HD
+http://rv.therevenge.co:80/307231215061/307231215061/80959
+#EXTINF:-1,|USA| WWE
+http://rv.therevenge.co:80/307231215061/307231215061/80985
+#EXTINF:0,NFL Channel
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,DUBAI Racing
+#EXTGRP:Without category
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:0,Red Bull TV
+#EXTGRP:Without category
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0,Big Sky Conference
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=752&deviceId=59641d9173ac1fec2fc01f17&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,World Poker Tour
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=770&deviceId=5616f9c0ada51f8004c4b091&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,GLORY Kickboxing
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,|AR| BEIN SPORTS 1 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78617
+#EXTINF:-1,|AR| BEIN SPORTS 2 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78616
+#EXTINF:-1,|AR| BEIN SPORTS 3 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78615
+#EXTINF:-1,|AR| BEIN SPORTS 4 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78614
+#EXTINF:-1,|AR| BEIN SPORTS 5 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78613
+#EXTINF:-1,|AR| BEIN SPORTS 6 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78612
+#EXTINF:-1,|AR| BEIN SPORTS 7 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78611
+#EXTINF:-1,|AR| BEIN SPORTS 8 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78610
+#EXTINF:-1,|AR| BEIN SPORTS 9 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78609
+#EXTINF:-1,|AR| BEIN SPORTS 10 HD OLYMPIC
+http://rv.therevenge.co:80/307231215061/307231215061/78608
+#EXTINF:-1,|AR| BEIN SPORTS 11 HD EN
+http://rv.therevenge.co:80/307231215061/307231215061/78607
+#EXTINF:-1,|AR| BEIN SPORTS 12 HD EN
+http://rv.therevenge.co:80/307231215061/307231215061/78606
+#EXTINF:-1,|AR| BEIN SPORTS 13 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78605
+#EXTINF:-1,|AR| BEIN SPORTS 14 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78604
+#EXTINF:-1,|AR| BEIN SPORTS 15 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78603
+#EXTINF:-1,|AR| BEIN SPORTS 16 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78602
+#EXTINF:-1,|AR| BEIN SPORTS NBA HD
+http://rv.therevenge.co:80/307231215061/307231215061/78619
+
+#EXTINF:-1,|UK|FHD| BT SPORTS 1
+http://rv.therevenge.co:80/307231215061/307231215061/79957
+#EXTINF:-1,|UK|FHD| BT SPORTS 2
+http://rv.therevenge.co:80/307231215061/307231215061/79956
+#EXTINF:-1,|UK|FHD| BT SPORTS 3
+http://rv.therevenge.co:80/307231215061/307231215061/79955
+#EXTINF:-1,|UK|FHD| EUROSPORTS 1
+http://rv.therevenge.co:80/307231215061/307231215061/79954
+#EXTINF:-1,|UK|FHD| EUROSPORTS 2
+http://rv.therevenge.co:80/307231215061/307231215061/79953
+
+#EXTINF:-1,|AR| ABUDHABI SPORTS 1 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78586
+#EXTINF:-1,|AR| ABUDHABI SPORTS 2 HD
+http://rv.therevenge.co:80/307231215061/307231215061/78585
+
+#EXTINF:-1,|UK| PPV 4 (ONLY MATCH TIME)
+http://rv.therevenge.co:80/307231215061/307231215061/79919
+#EXTINF:-1,|UK| PPV 5  (ONLY MATCH TIME)
+http://rv.therevenge.co:80/307231215061/307231215061/79918
+#EXTINF:-1,|UK| PPV 1 (ONLY MATCH TIME)
+http://rv.therevenge.co:80/307231215061/307231215061/79917
+#EXTINF:-1,|UK| PPV 2  (ONLY MATCH TIME)
+http://rv.therevenge.co:80/307231215061/307231215061/79916
+#EXTINF:-1,|UK| PPV 3 (ONLY MATCH TIME)
+http://rv.therevenge.co:80/307231215061/307231215061/79915
+#EXTINF:-1,|UK| PPV 6 (ONLY MATCH TIME)
+http://rv.therevenge.co:80/307231215061/307231215061/79914
+
+
+----------------------------------------------------------------------Infantiles--------------------------------------------------------------
+
+
+
+
+#EXTINF:0,Pluto TV Kids
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=989&deviceId=51c75f7bb6f26ba1cd00002f&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,|SP| BABY TV
+http://rv.therevenge.co:80/307231215061/307231215061/79337
+#EXTINF:-1,|SP| BOING
+http://rv.therevenge.co:80/307231215061/307231215061/79336
+#EXTINF:-1,|SP| CLAN TVE
+http://rv.therevenge.co:80/307231215061/307231215061/79335
+#EXTINF:0,|LATIN| DISNEY CHANNEL.
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86968
+#EXTINF:-1,|SP| DISNEY CH HD
+http://rv.therevenge.co:80/307231215061/307231215061/79334
+#EXTINF:-1,|SP| DISNEY JR
+http://rv.therevenge.co:80/307231215061/307231215061/79333
+#EXTINF:-1,|SP| DISNEY+
+http://rv.therevenge.co:80/307231215061/307231215061/79332
+#EXTINF:-1,|SP| NICK JR
+http://rv.therevenge.co:80/307231215061/307231215061/79331
+#EXTINF:-1,|SP| NICKELODEON  HD
+http://rv.therevenge.co:80/307231215061/307231215061/79330
+#EXTINF:-1,|SP| CANAL PANDA
+http://rv.therevenge.co:80/307231215061/307231215061/79329
+#EXTINF:-1,|SP| NICK/MTV
+http://rv.therevenge.co:80/307231215061/307231215061/79328
+
+--------------------------------------------------------------------Nacionales-----------------------------------------------------------------
+
+
+#EXTINF:0,|LATIN| AZ UNO
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86999
+#EXTINF:0,|LATIN| AZ MAS
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86998
+#EXTINF:0,|LATIN| AZTECA 7
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86997
+#EXTINF:0,|LATIN| AZTECA CINEMA
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86996
+#EXTINF:0,|LATIN| AZTECA CORAZON
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86995
+#EXTINF:0,|LATIN| AZTECA CLIC
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86994
+#EXTINF:0,|LATIN| CANAL 11
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86960
+#EXTINF:0,|LATIN| CANAL 5
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86959
+#EXTINF:0,|LATIN| CANAL DE LAS ESTRELLAS.
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86958
+#EXTINF:0,Canal 10 Cancun
+#EXTGRP:Without category
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,RCG 1 Saltillo
+#EXTGRP:Without category
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+
+
+----------------------------------------------------------Noticias----------------------------------------------------
+
+#EXTINF:0,Cronica HD - 24.4
+#EXTGRP:Without category
+https://g3.mc-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+
+#EXTINF:0,|LATIN| FORO TV
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87045
+#EXTINF:0,Vibe TV
+#EXTGRP:Without category
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8
+#EXTINF:0,Milenio
+#EXTGRP:Without category
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,CNN
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,|SP| FOX NEWS
+http://rv.therevenge.co:80/307231215061/307231215061/79250
+----------------------------------------------------------Internacionales-----------------------------------------------------------------------
+
+#EXTINF:-1,|SP| TVE INTERNACIONAL HD
+http://rv.therevenge.co:80/307231215061/307231215061/79362
+#EXTINF:-1,|SP| LA 1 HD
+http://rv.therevenge.co:80/307231215061/307231215061/79361
+#EXTINF:-1,|SP| LA 2
+http://rv.therevenge.co:80/307231215061/307231215061/79360
+#EXTINF:-1,|SP| ANTENA 3 HD
+http://rv.therevenge.co:80/307231215061/307231215061/79359
+#EXTINF:-1,|SP| ATRE SERIES HD
+http://rv.therevenge.co:80/307231215061/307231215061/79340
+#EXTINF:-1,|SP| CUATRO HD
+http://rv.therevenge.co:80/307231215061/307231215061/79358
+#EXTINF:-1,|SP| TELECINCO HD
+http://rv.therevenge.co:80/307231215061/307231215061/79357
+#EXTINF:-1,|SP| LA SEXTA HD
+http://rv.therevenge.co:80/307231215061/307231215061/79356
+#EXTINF:0,FDF
+#EXTGRP:Without category
+https://linear02-i.akamaihd.net/hls/live/837813/fdf/01.m3u8
+#EXTINF:0,TEN
+#EXTGRP:Without category
+http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+#EXTINF:-1,|SP| NOVA
+http://rv.therevenge.co:80/307231215061/307231215061/79346
+#EXTINF:-1,|SP| NEOX
+http://rv.therevenge.co:80/307231215061/307231215061/79339
+#EXTINF:0,VTV URUGUAY
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=vtv
+#EXTINF:0,|LATIN| TELEMUNDO INTERNACIONAL
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87034
+#EXTINF:0,|LATIN| UNIVISION
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87017
+#EXTINF:0,|LATIN| UNIVISION TELENOVELAS
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87016
+
+#EXTINF:0,Canal UCR
+#EXTGRP:Without category
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:0,Euro Latina TV
+#EXTGRP:Without category
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:0,Television del Este
+#EXTGRP:Without category
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Telemax HD
+#EXTGRP:Without category
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?
+#EXTINF:0,TeleSur
+#EXTGRP:Without category
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,Latinos UP
+#EXTGRP:Without category
+https://5b38ce71f1f00.streamlock.net/8082/8082/.m3u8
+#EXTINF:0,Wow TV
+#EXTGRP:Without category
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,DW Latin America
+#EXTGRP:Without category
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&amp;
+#EXTINF:0,France 24
+#EXTGRP:Without category
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+#EXTINF:0,NASA Public
+#EXTGRP:Without category
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:0,New Orleans TV
+#EXTGRP:Without category
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,AB Channel (Italia)
+#EXTGRP:Without category
+https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
+#EXTINF:-1,|UK|FHD| BBC 1
+http://rv.therevenge.co:80/307231215061/307231215061/80362
+#EXTINF:-1,|UK|FHD| BBC 2
+http://rv.therevenge.co:80/307231215061/307231215061/80361
+#EXTINF:-1,|UK|FHD| BBC 3/CBBC
+http://rv.therevenge.co:80/307231215061/307231215061/80360
+#EXTINF:-1,|UK|FHD| BBC 4/CBEEBIES
+http://rv.therevenge.co:80/307231215061/307231215061/80359
+#EXTINF:-1,|UK|FHD| BBC SCOTLAND
+http://rv.therevenge.co:80/307231215061/307231215061/80358
+#EXTINF:-1,|UK|FHD| CHANNEL 4
+http://rv.therevenge.co:80/307231215061/307231215061/80352
+#EXTINF:-1,|UK|FHD| CHANNEL 5
+http://rv.therevenge.co:80/307231215061/307231215061/80351
+
+----------------------------------------------------------------Cine-------------------------------------------------------------------------------
+
+#EXTINF:-1,|USA| HALLMARK MOVIES & MYSTERIES HD
+http://rv.therevenge.co:80/307231215061/307231215061/81210
+#EXTINF:-1,|USA| HALLMARK HD
+http://rv.therevenge.co:80/307231215061/307231215061/81209
+#EXTINF:-1,|USA| HALLMARK DRAMA
+http://rv.therevenge.co:80/307231215061/307231215061/81208
+#EXTINF:0,|LATIN| GOLDEN PREMIER
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86988
+#EXTINF:0,|LATIN| GOLDEN EDGE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86980
+#EXTINF:0,|LATIN| GOLDEN
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86979
+#EXTINF:0,TCM HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=6|User-Agent=gjaiodjfhf73#EXTINF:-1
+#EXTINF:0,HBO POP
+#EXTGRP:unsorted
+https://blackaddon.com/scr/tk.php?id=hbo_pop_lat
+#EXTINF:0,|LATIN| CINE CANAL
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86993
+#EXTINF:0,|LATIN| MULTIPREMIER
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86992
+#EXTINF:0,|LATIN| PARAMOUNT
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86987
+#EXTINF:0,|LATIN| SONY
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86986
+#EXTINF:0,|LATIN| SPACE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86985
+#EXTINF:0,|LATIN| STUDIO UNIVERSAL
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86984
+#EXTINF:0,A&E
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=4|User-Agent=gjaiodjfhf73
+#EXTINF:0,HOLLYWOOD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=3|User-Agent=gjaiodjfhf73
+#EXTINF:0,TAQ 1
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=13|User-Agent=gjaiodjfhf73
+#EXTINF:0,TAQ 2
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=12|User-Agent=gjaiodjfhf73
+#EXTINF:0,TAQ 3
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=11|User-Agent=gjaiodjfhf73
+#EXTINF:0,TAQ 4
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=10|User-Agent=gjaiodjfhf73
+#EXTINF:0,TAQ 5
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=9|User-Agent=gjaiodjfhf73
+#EXTINF:0,ESTRENOS HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=43|User-Agent=gjaiodjfhf73
+#EXTINF:0,DRAMA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=42|User-Agent=gjaiodjfhf73
+#EXTINF:-1,|CA| HBO 1
+http://rv.therevenge.co:80/307231215061/307231215061/81366
+#EXTINF:-1,|CA| HBO 2
+http://rv.therevenge.co:80/307231215061/307231215061/81365
+#EXTINF:0,|LATIN| HBO
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87029
+#EXTINF:0,|LATIN| HBO 2
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87028
+#EXTINF:0,|LATIN| HBO PLUS
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87027
+#EXTINF:0,|LATIN| HBO FAMILY
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87026
+#EXTINF:0,|LATIN| HBO SIGNATURE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87025
+#EXTINF:0,|LATIN| HBO ESTE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87024
+#EXTINF:0,|LATIN| FOX PREMIUM MOVIES
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87023
+#EXTINF:0,|LATIN| FOX PREMIUM CINEMA
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87022
+#EXTINF:0,|LATIN| FOX PREMIUM ACTION
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87021
+#EXTINF:0,|LATIN| FOX PREMIUM COMEDY
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87020
+#EXTINF:0,|LATIN| FOX PREMIUM FAMILY
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87019
+#EXTINF:0,|LATIN| FOX PREMIUM SERIES
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87018
+#EXTINF:0,FMTV HD
+#EXTGRP:Without category
+http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0,Classic Movies Channel
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,|SP| M.ACCION HD
+http://rv.therevenge.co:80/307231215061/307231215061/79287
+#EXTINF:-1,|SP| M. CINE ESPANOL
+http://rv.therevenge.co:80/307231215061/307231215061/79286
+#EXTINF:-1,|SP| M. COMEDIA HD
+http://rv.therevenge.co:80/307231215061/307231215061/79285
+#EXTINF:-1,|SP| M.DRAMA HD
+http://rv.therevenge.co:80/307231215061/307231215061/79284
+#EXTINF:-1,|SP| M.ESTRENOS HD
+http://rv.therevenge.co:80/307231215061/307231215061/79283
+#EXTINF:-1,|SP| M.CINEDOC&ROLL
+http://rv.therevenge.co:80/307231215061/307231215061/79282
+#EXTINF:-1,|SP| M.CINEDOC&ROLL HD
+http://rv.therevenge.co:80/307231215061/307231215061/79281
+#EXTINF:-1,|SP| M.SERIES HD
+http://rv.therevenge.co:80/307231215061/307231215061/79280
+
+
+
+------------------------------------------------------------------Entretenimiento----------------------------------------
+
+
+#EXTINF:-1,|SP| AMC HD
+http://rv.therevenge.co:80/307231215061/307231215061/79326
+#EXTINF:0,AXN WHITE HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=18|User-Agent=gjaiodjfhf73
+#EXTINF:0,AXN HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=19|User-Agent=gjaiodjfhf73
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=16|User-Agent=gjaiodjfhf73
+#EXTINF:0,CRIME&INVESTIGATION
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=48|User-Agent=gjaiodjfhf73
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=45|User-Agent=gjaiodjfhf73
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=47|User-Agent=gjaiodjfhf73
+#EXTINF:-1,|SP| CALLE 13 HD
+http://rv.therevenge.co:80/307231215061/307231215061/79322
+#EXTINF:-1,|SP| COMEDY CENTRAL HD
+http://rv.therevenge.co:80/307231215061/307231215061/79321
+#EXTINF:-1,|SP| COSMO HD
+http://rv.therevenge.co:80/307231215061/307231215061/79320
+#EXTINF:-1,|SP| FOX HD
+http://rv.therevenge.co:80/307231215061/307231215061/79319
+#EXTINF:-1,|SP| FOX LIFE HD
+http://rv.therevenge.co:80/307231215061/307231215061/79318
+#EXTINF:-1,|SP| HOLLYWOOD HD
+http://rv.therevenge.co:80/307231215061/307231215061/79317
+#EXTINF:-1,|SP| PARAMOUNT
+http://rv.therevenge.co:80/307231215061/307231215061/79316
+#EXTINF:-1,|SP| SUNDANCE TV
+http://rv.therevenge.co:80/307231215061/307231215061/79315
+#EXTINF:-1,|SP| SYFY HD
+http://rv.therevenge.co:80/307231215061/307231215061/79314
+#EXTINF:-1,|SP| TCM HD
+http://rv.therevenge.co:80/307231215061/307231215061/79313
+#EXTINF:0,|LATIN| UNIMAS
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87033
+#EXTINF:0,|LATIN| ISAT
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87032
+#EXTINF:0,|LATIN| PASIONES
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87031
+#EXTINF:-1,|UK|FHD| EDEN
+http://rv.therevenge.co:80/307231215061/307231215061/80224
+#EXTINF:-1,|UK|FHD| E! ENTERTAINMENT
+http://rv.therevenge.co:80/307231215061/307231215061/80219
+----------------------------------------------------------------Culturales--------------------------------------------------
+
+#EXTINF:0,|LATIN| NAT GEO
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86953
+#EXTINF:0,|LATIN| NAT GEO WILD
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86952
+#EXTINF:0,|LATIN| DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86951
+#EXTINF:0,|LATIN| DISCOVERY INVESTIGATION
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86950
+#EXTINF:0,|LATIN| DISCOVERY HOME&HEALTH
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86949
+#EXTINF:0,|LATIN| DISCOVERY KIDS
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86948
+#EXTINF:0,|LATIN| DISCOVERY TURBO
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86947
+#EXTINF:0,|LATIN| DISCOVERY THEATER
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86946
+#EXTINF:0,|LATIN| DISCOVERY SCIENCE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86945
+#EXTINF:0,|LATIN| ANIMAL PLANET
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86944
+#EXTINF:0,|LATIN| HISTORY
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86943
+#EXTINF:0,|LATIN| ID
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86942
+#EXTINF:0,|LATIN| H2
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86941
+#EXTINF:0,HISTORIA HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=23|User-Agent=gjaiodjfhf73
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=26|User-Agent=gjaiodjfhf73
+#EXTINF:0,NAT GEO WILD HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=25|User-Agent=gjaiodjfhf73#EXTINF:-1
+#EXTINF:0,VIAJAR HD
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=7|User-Agent=gjaiodjfhf73
+#EXTINF:0,Travel HD
+#EXTGRP:unsorted
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0,Beach TV Pawleys Island
+#EXTGRP:unsorted
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0,COCINA
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=15|User-Agent=gjaiodjfhf73
+#EXTINF:-1,|FR|SD| ARTE HD
+http://rv.therevenge.co:80/307231215061/307231215061/79117
+#EXTINF:-1,|SP| CANAL ODISEA
+http://rv.therevenge.co:80/307231215061/307231215061/79254
+#EXTINF:-1,|SP| IBERALIA TV
+http://rv.therevenge.co:80/307231215061/307231215061/79258
+#EXTINF:0,Pluto TV Animals
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Voyager Documentaries
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=681&deviceId=589aa03df9ba56a84197a560&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Smash Food
+#EXTGRP:Without category
+http://a3.smashmalta.com:82/live/smash/smash/16.ts
+#EXTINF:0,Food TV
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0,Pluto TV Gamer
+#EXTGRP:Without category
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=801&deviceId=5ca7f16c37b88b2694731c79&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+---------------------------------------------------------------------------Musica------------------------------------------------
+
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+https://blackaddon.com/scr/iose.php?c=14|User-Agent=gjaiodjfhf73
+
+#EXTINF:0,|MX| MTV
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87049
+
+#EXTINF:-1,|UK|SD| MTV ONE
+http://rv.therevenge.co:80/307231215061/307231215061/80085
+#EXTINF:-1,|UK|SD| MTV LIVE
+http://rv.therevenge.co:80/307231215061/307231215061/80084
+#EXTINF:0,|MX| MTV LIVE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/87048
+#EXTINF:-1,|SP| MTV HITS
+http://rv.therevenge.co:80/307231215061/307231215061/79268
+#EXTINF:-1,|SP| MTV DANCE
+http://rv.therevenge.co:80/307231215061/307231215061/79267
+#EXTINF:-1,|UK|SD| CLUBLAND
+http://rv.therevenge.co:80/307231215061/307231215061/80093
+#EXTINF:0,|LATIN| VH1
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86922
+#EXTINF:0,Melody Channel www.achoAPPS.com
+#EXTGRP:unsorted
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,Classic Arts Showcase
+#EXTGRP:Without category
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:0,Telemusica www.achoAPPS.com
+#EXTGRP:unsorted
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1,|FR|SD| TRACE URBAN HD
+http://rv.therevenge.co:80/307231215061/307231215061/78972
+#EXTINF:0,M2O TV
+#EXTGRP:Without category
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,CafèTV 24
+#EXTGRP:Without category
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:0,Company TV
+#EXTGRP:Without category
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:0,Music Top
+#EXTGRP:Without category
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w607515073_b2028000_sleng.m3u8
+#EXTINF:0,Otto FM TV
+#EXTGRP:Without category
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+#EXTINF:0,CANAL 88 Stereo
+#EXTGRP:Without category
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:0,Euro Indie Music Chart TV
+#EXTGRP:Without category
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:0,FM Italia TV
+#EXTGRP:Without category
+http://flash8.streaming.xdevel.com/fmitalia/fmitalia/playlist.m3u8
+
+
+-----------------------------------------Hot-------------------------------------------
+
+
+#EXTINF:0,VIP VIVID RED
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86274
+#EXTINF:0,VIP HUSTLER HD
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86273
+#EXTINF:0,VIP PLAYBOY EUROPE
+#EXTGRP:unsorted
+http://rv.therevenge.co:80/307231215061/307231215061/86272
+#EXTINF:-1,XXX: XY Plus 2 YYY
+http://rv.therevenge.co:80/307231215061/307231215061/86120
+#EXTINF:-1,XXX: XY Plus 24 YYY
+http://rv.therevenge.co:80/307231215061/307231215061/86119
+#EXTINF:-1,XXX: XY Plus 6 YYY
+http://rv.therevenge.co:80/307231215061/307231215061/86118
+#EXTINF:-1,XXX: XY Plus YYY
+http://rv.therevenge.co:80/307231215061/307231215061/86117
+
+
+
+
+
+
+
+
+
+
+
+
+
+
